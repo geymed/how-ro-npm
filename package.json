@@ -1,0 +1,24 @@
+{
+  "name": "@geymed/npm",
+  "version": "1.0.0",
+  "description": "how-to-npm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geymed/how-ro-npm.git"
+  },
+  "keywords": [
+    "how",
+    "to",
+    "npm"
+  ],
+  "author": "geymed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geymed/how-ro-npm/issues"
+  },
+  "homepage": "https://github.com/geymed/how-ro-npm#readme"
+}
